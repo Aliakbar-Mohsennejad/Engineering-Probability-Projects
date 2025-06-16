@@ -17,8 +17,11 @@ Demonstrate how the sum of i.i.d variables gradually approaches a **normal distr
 
 - \( n \in \{2, 4, 6, 8, 10, 12, 14\} \)
 - Sample size = 10,000
-- Exponential: \( f(x) = \lambda e^{-\lambda x} \)
-- Uniform: \( f(x) = 1 \) for \( 0 \leq x \leq 1 \)
+- Exponential Distribution:
+    f(x) = λ × exp(–λx)
+
+- Uniform Distribution:
+    f(x) = 1      when 0 ≤ x ≤ 1  &  f(x) = 0      otherwise
 
 ---
 
