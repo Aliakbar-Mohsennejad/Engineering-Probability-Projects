@@ -2,7 +2,7 @@
 
 This simulation explores how the sum of multiple **independent and identically distributed (i.i.d)** random variables evolves as the number of terms increases. It compares the behavior for two base distributions:
 
-1. **Exponential Distribution** with rate parameter \( \lambda = 1 \)
+1. **Exponential Distribution** with rate parameter \( λ = 1 \)
 2. **Uniform Distribution** on the interval [0, 1]
 
 ---
