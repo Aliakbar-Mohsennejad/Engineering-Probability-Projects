@@ -10,7 +10,7 @@ This repository contains a series of educational mini-projects implemented in Py
 
 Simulates a Galton board using random left/right decisions to show how the **binomial distribution** approximates the **normal distribution**.
 
-📎 Example Output (resized preview):
+📎 Example Output:
 
 <img src="Q1_GaltonBoard/Figure_1.png" width="500"/>
 
@@ -20,11 +20,11 @@ Simulates a Galton board using random left/right decisions to show how the **bin
 
 Visualizes how the sum of i.i.d. random variables from **exponential** and **uniform** distributions evolves toward a **normal shape**, demonstrating the **Central Limit Theorem**.
 
-📎 Exponential Sum (resized): 
+📎 Exponential: 
 
 <img src="Q2_SumOfRandomVariables/exponential_sum_distribution.png" width="450"/>
 
-📎 Uniform Sum (resized):
+📎 Uniform Sum:
 
 <img src="Q2_SumOfRandomVariables/uniform_sum_distribution.png" width="450"/>
 
@@ -34,7 +34,7 @@ Visualizes how the sum of i.i.d. random variables from **exponential** and **uni
 
 Models a simple real-world scenario using a **uniform distribution** to simulate bus delays and calculate probabilities of waiting, with histogram analysis.
 
-📎 Delay Histogram (resized):
+📎 Delay Histogram:
 
 <img src="Q3_BusDelay/bus_delay_histogram.png" width="500"/>
 
